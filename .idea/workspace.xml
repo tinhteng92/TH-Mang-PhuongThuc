@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5d8fc49-d77b-4102-bc19-50f80ee6d994" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TH-Mang-PhuongThuc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BtFindMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChuyenDoiNhietDo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DeleteElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemSvThiDo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindElementInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GopMang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThemPhanTu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TimGtriLonNhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TinhTongCacSoCot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemKiTu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TinhTongCacSoODuongCheoChinh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,12 +39,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/CodeGym/Hoc-lieu-Java/DemoCode/Modul-2/Lop-DoiTuong"
+    "last_opened_file_path": "C:/CodeGym/Hoc-lieu-Java/DemoCode/Modul-2/TH-Mang-PhuongThuc",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TinhTongCacSoCot">
+  <component name="RunManager" selected="Application.DemKiTu">
     <configuration name="BtFindMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BtFindMin" />
+      <module name="TH-Mang-PhuongThuc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemKiTu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemKiTu" />
       <module name="TH-Mang-PhuongThuc" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,13 +72,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GopMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GopMang" />
-      <module name="TH-Mang-PhuongThuc" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TinhTongCacSoCot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TinhTongCacSoCot" />
       <module name="TH-Mang-PhuongThuc" />
@@ -96,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemKiTu" />
         <item itemvalue="Application.TinhTongCacSoCot" />
         <item itemvalue="Application.DemSvThiDo" />
         <item itemvalue="Application.BtFindMin" />
         <item itemvalue="Application.FindMax" />
-        <item itemvalue="Application.GopMang" />
       </list>
     </recent_temporary>
   </component>
@@ -118,6 +103,8 @@
       <workItem from="1652281113204" duration="8440000" />
       <workItem from="1652317371985" duration="20313000" />
       <workItem from="1652347621862" duration="16000" />
+      <workItem from="1652350169189" duration="764000" />
+      <workItem from="1652627521088" duration="2022000" />
     </task>
     <servers />
   </component>
